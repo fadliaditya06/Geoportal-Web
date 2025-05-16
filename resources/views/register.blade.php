@@ -159,7 +159,7 @@
       <!-- Link ke Login -->
       <div class="mt-6 text-center text-sm">
         Sudah punya akun?
-        <a href="/login" class="text-[#358666] font-semibold hover:underline">Login di sini</a>
+        <a href="/login" class="text-[#358666] font-medium hover:underline">Login di sini</a>
       </div>
     </div>
   </div>
